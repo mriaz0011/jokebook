@@ -1,4 +1,4 @@
-<h2>Welcome to the Joke Book iOS App</h2>
+<h2>Welcome to the Joke Book iOS App </h2>
 <p>This app build using:</p>
 <li>Xcode 12.4</li>
 <li>Swift 5.3.</li>
